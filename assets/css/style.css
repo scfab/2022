@@ -4573,6 +4573,7 @@ ul.session-list li {
     /*font-size: 0.9em;*/
     border: 1px solid;
     border-collapse: collapse;
+    min-width: 200px;
 }
 
 
