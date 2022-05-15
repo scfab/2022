@@ -4572,6 +4572,7 @@ ul.session-list li {
     margin: 25px 0;
     /*font-size: 0.9em;*/
     border: 1px solid;
+    border-collapse: collapse;
 }
 
 
