@@ -4561,3 +4561,17 @@ h3.speaker-header {
 ul.session-list li {
   padding: 8px 0 0 0;
 }
+
+
+
+/**
+ * Table
+ */
+
+.schedule-table {
+    margin: 25px 0;
+    font-size: 15.9em;
+    border: 1px solid;
+}
+
+
