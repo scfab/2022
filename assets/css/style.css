@@ -4593,6 +4593,8 @@ ul.session-list li {
     padding: 5px 10px;
 }
 
-
+.schedule-table td + td { 
+   border-left:2.5px solid #C8C8C8; 
+}
 
 
