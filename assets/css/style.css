@@ -4576,7 +4576,7 @@ ul.session-list li {
     min-width: 400px;
 }
 
-.styled-table thead tr {
+.schedule-table thead tr {
     background-color: 	#D8D8D8;
     /*color: #ffffff;*/
     text-align: left;
