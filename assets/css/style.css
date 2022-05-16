@@ -4570,7 +4570,7 @@ ul.session-list li {
 
 .schedule-table {
     margin: 25px 0;
-    font-size: 0.9em;
+    font-size: 1.1em;
     border: 1px solid;
     border-collapse: collapse;
     min-width: 400px;
@@ -4580,6 +4580,11 @@ ul.session-list li {
     background-color: 	#D8D8D8;
     /*color: #ffffff;*/
     text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 5px 10px;
 }
 
 
