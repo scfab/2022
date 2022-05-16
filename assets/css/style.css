@@ -4570,7 +4570,7 @@ ul.session-list li {
 
 .schedule-table {
     margin: 25px 0;
-    font-size: 1.1em;
+    font-size: 1.2em;
     border: 1px solid;
     border-collapse: collapse;
     min-width: 400px;
@@ -4578,6 +4578,7 @@ ul.session-list li {
 
 .schedule-table thead tr {
     background-color: 	#D8D8D8;
+    border-bottom: 1px solid #707070;
     /*color: #ffffff;*/
     text-align: left;
 }
